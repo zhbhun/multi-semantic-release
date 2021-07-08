@@ -1,7 +1,7 @@
 {
-	"name": "multi-semantic-release",
+	"name": "@zhbhun/multi-semantic-release",
 	"author": "Dave Houlbrooke <dave@shax.com>",
-	"version": "0.0.0-semantically-released",
+	"version": "2.8.2",
 	"license": "0BSD",
 	"engines": {
 		"node": ">=10.18",
